@@ -1,0 +1,207 @@
+{
+  "user": [
+    {
+      "firstname": "x",
+      "last": "y",
+      "password": "000",
+      "email": "x@gmail.com",
+      "friends": [
+        {
+          "name": "z",
+          "calculation": [
+            {
+              "discription": "water",
+              "owe": 100,
+              "owed": 0
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "firstname": "sai krishna",
+      "lastname": "chaithanya",
+      "password": "123",
+      "email": "sai@gmail.com",
+      "friends": [
+        {
+          "name": "krishna",
+          "calculation": [
+            {
+              "description": "movie",
+              "owe": "100",
+              "owed": 0
+            },
+            {
+              "discription": "restarent",
+              "owe": "200",
+              "owed": 0
+            },
+            {
+              "discription": "water",
+              "owe": "400",
+              "owed": 0
+            },
+            {
+              "discription": "books",
+              "owe": 0,
+              "owed": "800"
+            }
+          ]
+        },
+        {
+          "name": "ram",
+          "calculation": [
+            {
+              "description": "water",
+              "owe": "500",
+              "owed": 0
+            },
+            {
+              "discription": "electrical bill",
+              "owe": 0,
+              "owed": "4000"
+            }
+          ]
+        },
+        {
+          "name": "vamshi",
+          "calculation": [
+            {
+              "description": "movie",
+              "owe": "200",
+              "owed": 0
+            },
+            {
+              "discription": "movie",
+              "owe": "300",
+              "owed": 0
+            },
+            {
+              "discription": "restarent",
+              "owe": 0,
+              "owed": "700"
+            }
+          ]
+        },
+        {
+          "name": "christ",
+          "calculation": [
+            {
+              "description": "cake",
+              "owe": 0,
+              "owed": "500"
+            },
+            {
+              "discription": "amazon",
+              "owe": "600",
+              "owed": 0
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "firstname": "vagi",
+      "lastname": "raj",
+      "password": "098",
+      "email": "vagi@gmail.com",
+      "friends": [
+        {
+          "name": "chaitu",
+          "calculation": []
+        },
+        {
+          "name": "christ",
+          "calculation": []
+        }
+      ],
+      "id": 3
+    },
+    {
+      "firstname": "eshwar",
+      "lastname": "raj",
+      "password": "raj123",
+      "email": "vagiswaraj@gmail.com",
+      "friends": [
+        {
+          "name": "krishna",
+          "calculation": [
+            {
+              "discription": "water",
+              "owe": 0,
+              "owed": "500"
+            }
+          ]
+        },
+        {
+          "name": "chaitu",
+          "calculation": [
+            {
+              "discription": "movie",
+              "owe": "500",
+              "owed": 0
+            },
+            {
+              "discription": "restarent",
+              "owe": "550",
+              "owed": 0
+            }
+          ]
+        },
+        {
+          "name": "chaitanya",
+          "calculation": []
+        },
+        {
+          "name": "vagi",
+          "calculation": [
+            {
+              "discription": "books",
+              "owe": 0,
+              "owed": "250"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "firstname": "vamshi",
+      "lastname": "pothapragada",
+      "password": "v123",
+      "email": "vamshi@gmail.com",
+      "friends": [
+        {
+          "name": "vagi",
+          "calculation": []
+        },
+        {
+          "name": "chaitu",
+          "calculation": []
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "product": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "product": [
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+}
